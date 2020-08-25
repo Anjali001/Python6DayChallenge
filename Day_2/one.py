@@ -1,0 +1,5 @@
+user=str(input())
+users=user.split(",")
+print(users)
+tuples=tuple(users)
+print(tuples)
