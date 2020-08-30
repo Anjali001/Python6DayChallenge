@@ -70,7 +70,7 @@
     is_palindrome([1, 2, 3, 1]) -> False
 17.	Rotate a list N places to the left. Examples:
     rotate_list([a,b,c,d,e,f,g,h],3)--> [d,e,f,g,h,a,b,c]
-     rotate_list([a,b,c,d,e,f,g,h],-2)--> [g,h,a,b,c,d,e,f]
+     rotate_list([a,b,c,d,e,f,g,h],-2)--> [g,h,a,b,c,d,e,f] # Can also try a right rotate
 18.	Sorting a list of lists according to length of sublists
     We suppose that a list (inlist) contains elements that are lists themselves.
     The objective is to sort the elements of inlist according to their length.
